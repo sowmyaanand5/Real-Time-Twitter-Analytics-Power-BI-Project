@@ -12,7 +12,7 @@ The Real-Time Twitter Analytics Dashboard provides actionable insights into Twit
       
       •	Impressions and engagement rates.
       
-      •	Media views vs. media engagements.
+      •	Media views v/s media engagements.
       
       •	Breakdown of interactions: likes, retweets, hashtags and URLs.
 
