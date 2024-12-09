@@ -7,14 +7,14 @@ The Real-Time Twitter Analytics Dashboard provides actionable insights into Twit
 ## Data
 
 1.	  Metrics Visualized:
-   
-   •	Tweet counts per day of the week.
-   
-   •	Impressions and engagement rates.
-   
-   •	Media views vs. media engagements.
-   
-   •	Breakdown of interactions: likes, retweets, hashtags and URLs.
+      
+      •	Tweet counts per day of the week.
+      
+      •	Impressions and engagement rates.
+      
+      •	Media views vs. media engagements.
+      
+      •	Breakdown of interactions: likes, retweets, hashtags and URLs.
 
     
 
