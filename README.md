@@ -41,6 +41,7 @@ The Real-Time Twitter Analytics Dashboard provides actionable insights into Twit
      •	Selectable month filter to narrow down analysis to specific periods.
   
 5.	Performance Tracking:
+   
      •	Gauges for showing likes and retweets.
 
 ## Conclusion
