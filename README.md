@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Real-Time Twitter Analytics Dashboard provides actionable insights into Twitter activity and engagement patterns. This Power BI solution visualizes key metrics such as tweet counts, media views, impressions, engagement rates and interaction breakdowns, enabling organizations to monitor and optimize their Twitter strategy effectively. It aids in understanding audience behaviour, evaluating content performance and driving targeted engagement.
+The Real-Time Twitter Analytics Dashboard provides actionable insights into Twitter activity and engagement patterns. This Power BI dashboard visualizes key metrics such as tweet counts, media views, impressions, engagement rates and interaction breakdowns, enabling organizations to monitor and optimize their Twitter strategy effectively. It aids in understanding audience behaviour, evaluating content performance and driving targeted engagement.
 
 ## Data
 
